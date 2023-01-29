@@ -14,12 +14,12 @@ Traffic congestion - Rush hour brings with it extreme traffic situations and pot
 
 
 
-# Task - 
+# Task
 Understand why such traffic situations arise and develop a monitoring system to help dissolve traffic jams and gridlocks.
 
 
 
-# Fundamental issue -
+# Fundamental issue
 - Roads cannot support a large number of vehicles
 - Narrowing roads lead to more merging and slowdowns
 - Sudden reduction in speed limits
