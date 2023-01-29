@@ -29,4 +29,4 @@ Understand why such traffic situations arise and develop a monitoring system to 
 
 # Solution
 Analyzing road networks and identifying potential bottlenecks that may cause congestion
-Ideal for urban architects, civil engineers and lawmakers to redirect, reshape and optimize traffic flow
+Ideal for urban architects, civil engineers and lawmakers to redirect, reshape and optimize traffic flow. 
